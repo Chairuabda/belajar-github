@@ -3,3 +3,5 @@ Yang akan dipelajari kedepan
 - Satu framwork dari JavaScript
 - PHP
 - Laravel
+- SASS
+- MySql
