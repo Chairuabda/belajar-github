@@ -1,6 +1,6 @@
 Yang akan dipelajari kedepan
 - Javascript
-- Satu framwork dari JavaScript
+- framework JavaScript
 - PHP
 - Laravel
 - SASS
