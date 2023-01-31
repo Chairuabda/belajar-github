@@ -1,6 +1,8 @@
 Yang akan dipelajari kedepan
 - Javascript
 - framework JavaScript
+  1. React.js
+  2. Vue.js
 - PHP
 - Laravel
 - SASS
