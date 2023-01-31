@@ -1,0 +1,7 @@
+Yang akan dipelajari kedepan
+- Javascript
+- Satu framwork dari JavaScript
+- PHP
+- Laravel
+- SASS
+- MySql
