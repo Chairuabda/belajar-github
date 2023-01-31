@@ -1,2 +1,2 @@
-# belajar-github
+# Belajar Github
 Repository untuk Belajar Github
